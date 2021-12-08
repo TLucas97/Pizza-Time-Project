@@ -1,4 +1,4 @@
-# hamburgueria_project
+# Pizza-Time-Project
 
 ## Project setup
 ```
