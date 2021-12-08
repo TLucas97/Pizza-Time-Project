@@ -1,0 +1,95 @@
+{
+  "ingredientes": {
+    "massas": [
+      {
+        "id": 1,
+        "tipo": "Tradicional"
+      },
+      {
+        "id": 2,
+        "tipo": "Artesanal"
+      },
+      {
+        "id": 3,
+        "tipo": "Italiana"
+      },
+      {
+        "id": 4,
+        "tipo": "Paulista"
+      }
+    ],
+    "queijos": [
+      {
+        "id": 1,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 2,
+        "tipo": "Mussarela"
+      },
+      {
+        "id": 3,
+        "tipo": "Prato"
+      },
+      {
+        "id": 4,
+        "tipo": "Caseiro"
+      }
+    ],
+    "molhos": [
+      {
+        "id": 1,
+        "tipo": "Barbecue"
+      },
+      {
+        "id": 2,
+        "tipo": "Maionese Caseira"
+      },
+      {
+        "id": 3,
+        "tipo": "Cebola Agridoce"
+      },
+      {
+        "id": 4,
+        "tipo": "Molho especial"
+      }
+    ],
+    "adicionais": [
+      {
+        "id": 1,
+        "tipo": "Calabresa"
+      },
+      {
+        "id": 2,
+        "tipo": "Salame"
+      },
+      {
+        "id": 3,
+        "tipo": "Peito de Perú"
+      },
+      {
+        "id": 4,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 5,
+        "tipo": "Milho"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "pizzas": []
+}
